@@ -6,6 +6,7 @@ require github.com/huandu/go-sqlbuilder v1.21.0
 
 require (
 	github.com/dany0814/go-hexagonal v0.0.0-20230414050815-d0f098b01a6c // indirect
+	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
